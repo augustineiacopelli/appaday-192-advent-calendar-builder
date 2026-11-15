@@ -2,7 +2,7 @@
 
 A Catholic family Advent calendar builder. Add the people in your home with their ages, choose a theme, and Claude writes one door for each day from the First Sunday of Advent to Christmas Eve. Each door holds a short title, a Scripture passage told in paraphrase, and a reflection, an activity and a prayer for every age group in your family.
 
-**Live app:** https://augustineiacopelli.github.io/augustineiacopelli-appaday-192-advent-calendar-builder/
+**Live app:** https://augustineiacopelli.github.io/appaday-192-advent-calendar-builder/
 **Portfolio:** https://augustineiacopelli.github.io/appaday/
 
 Category S (Spiritual). Claude powered.
